@@ -2686,6 +2686,18 @@ body {
     width: 100% !important;
   }
 }
+.cid-rmYQS1voxg {
+  background: #ffffff;
+}
+.cid-rmYQS1voxg .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rmYQS1voxg .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rmYEa9waWE {
   padding-top: 30px;
   padding-bottom: 0px;
