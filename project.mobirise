@@ -28,7 +28,8 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#ff0000"
+        "#ff0000",
+        "#00c0ff"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -1612,6 +1613,9 @@
             },
             "H2": {
               "color": "#ff0000"
+            },
+            "B": {
+              "color": "#073b4c"
             }
           },
           "_name": "content4",
@@ -1707,7 +1711,7 @@
               "min-height": "188px"
             },
             "B": {
-              "color": "#ff0000"
+              "color": "#073b4c"
             }
           },
           "_name": "form1",
