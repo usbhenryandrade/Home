@@ -1615,7 +1615,7 @@
               "color": "#ff0000"
             },
             "B": {
-              "color": "#073b4c"
+              "color": "#232323"
             }
           },
           "_name": "content4",
@@ -1711,7 +1711,7 @@
               "min-height": "188px"
             },
             "B": {
-              "color": "#073b4c"
+              "color": "#232323"
             }
           },
           "_name": "form1",
