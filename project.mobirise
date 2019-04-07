@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "USBUSSINESNOW",
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1801,10 +1801,10 @@
               "color": "#767676"
             },
             "H2": {
-              "color": "#0f7699"
+              "color": "#ff0000"
             },
             "B": {
-              "color": "#0f7699"
+              "color": "#ff0000"
             }
           },
           "_name": "content4",
