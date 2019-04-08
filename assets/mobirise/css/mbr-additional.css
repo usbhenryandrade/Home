@@ -2206,6 +2206,19 @@ body {
     text-align: center;
   }
 }
+.cid-rn0JwuJvgt {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-rn0JwuJvgt .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rn0JwuJvgt .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rmZ4DnwE45 {
   padding-top: 30px;
   padding-bottom: 0px;
