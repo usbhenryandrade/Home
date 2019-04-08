@@ -1709,13 +1709,19 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rlQLx7kNut {
-  padding-top: 75px;
-  padding-bottom: 0px;
+  padding-top: 120px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/mbr-1920x1386.jpg");
+}
+.cid-rlQLx7kNut .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
 }
 @media (min-width: 992px) {
   .cid-rlQLx7kNut .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
